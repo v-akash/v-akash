@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL and Python.
 
-# 💫 About Me:
+# About Me:
 Aspiring  Data Analyst 
 
-# 💻 Tools
+# Tools and Language
 
 ![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
