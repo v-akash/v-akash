@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 A passionate Data Analyst 
 
 # 💻 Tools
+
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
